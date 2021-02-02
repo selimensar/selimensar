@@ -9,7 +9,7 @@ I❤️ Web Development!
 After 2 years of my digital marketing career, 
 I ran after my dreams and found myself trying to code. 
 
-I'm currently a web development student at HackYourFuture. :computer: 
+I'm currently a web development student at HackYourFutureBe. :computer: 
 
 selimensarkoksal@gmail.com 📫 
 
