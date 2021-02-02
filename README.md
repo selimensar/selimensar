@@ -1,4 +1,8 @@
-### Hi guys 👋
+
+<p style="text-align: center;">
+<img width="250" src="https://media.giphy.com/media/kFHT64PButf46M7rvP/giphy.gif">
+
+## Hi guys 👋
 
 I❤️ Web Development! 
 
@@ -11,8 +15,5 @@ selimensarkoksal@gmail.com 📫
 
 Check out my repos ⬇️
 
-
-<img width="250" src="https://media.giphy.com/media/kFHT64PButf46M7rvP/giphy.gif">
-
-
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimensar)](https://github.com/selimensar/github-readme-stats)
+</p>
