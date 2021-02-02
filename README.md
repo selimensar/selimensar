@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi guys 👋
 
-<!--
-**selimensar/selimensar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<iframe src="https://giphy.com/embed/kFHT64PButf46M7rvP" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-kFHT64PButf46M7rvP">via GIPHY</a></p>
+
+I ❤️ Web Development! After 2 years of my digital marketing career, I ran after my dreams and found myself trying to write code.
+
+:computer: I'm student of web development at HackYourFuture.
 
 Here are some ideas to get you started:
 
