@@ -1,7 +1,5 @@
-
-<p style="text-align: center;">
+<p align="center">
 <img width="250" src="https://media.giphy.com/media/kFHT64PButf46M7rvP/giphy.gif">
-
 ## Hi guys 👋
 
 I❤️ Web Development! 
