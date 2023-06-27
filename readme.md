@@ -5,7 +5,7 @@
 
 ## Hi guys :wave:
 
-I:heart: Web Development! :computer:
+I :heart: Web Development! :computer:
 
 selimensarkoksal@gmail.com :mailbox:
 
